@@ -36,3 +36,64 @@
     transform: rotate(360deg);
   }
 }
+
+
+.flex{
+display:flex;
+  flex-wrap:wrap ;
+  /*background-color: aqua;
+  justify-content: space-between;
+  padding :20px 20px;*/
+  font-size: 30px;
+
+}
+.shopping-card{
+  background-color: aqua;
+  justify-content: space-between;
+  padding :20px 20px;
+
+}
+
+.div1{
+  margin-top: 20px;
+  margin-left: 250px;
+  font-size: 20px;
+}
+button{
+  margin-bottom: 30px;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  margin-left: auto;
+  font-size: 20px;
+
+}
+
+.text{
+  font-size: 30px;
+  margin-left: 20px;
+  margin-top:10px
+}
+.quantity{
+  font-size: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.image{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+#button1{
+  background-color: pink;
+  width: 90px;
+  height: 40px;
+}
+.card{
+  background-color: pink;
+  width: 90px;
+  height: 40px;
+  border:1px solid black;
+  border-radius: 10px;
+  font-size: 20px;
+  text-align: center;
+}
